@@ -213,7 +213,7 @@ SWITCH (colour) // read colour
    BREAK
 ```
 
-##Pre-Condition Iteration `FOR,ENDFOR`
+## Pre-Condition Iteration `FOR,ENDFOR`
 
 ```pseudocode
 // print out the grade of each student, one at a time
